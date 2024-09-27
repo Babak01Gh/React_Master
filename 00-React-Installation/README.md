@@ -48,7 +48,8 @@ This will launch the local development server, and you can view your React app b
 
 ## Additional Resources
 
-[Vite Documentation](https://vitejs.dev/)
+[Vite Documentation](https://vitejs.dev/) 
+
 [React Documentation](https://reactjs.org/)
 Vite Documentation
 React Documentation
