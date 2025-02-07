@@ -16,7 +16,7 @@ Let's compare **React (Declarative)** vs **Vanilla JS (Imperative)** by building
 ```jsx
 import ReactDOM from "react-dom/client";
 
-function Counter() {
+function HelloWorld() {
   return (
     <div>
       <h1>Hello world !</h1>
@@ -25,7 +25,7 @@ function Counter() {
   );
 }
 
-export default Counter;
+export default HelloWorld;
 ```
 ### ✅ **Imperative Approach (JavaScript)**
 ```js
