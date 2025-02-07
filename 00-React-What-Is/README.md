@@ -33,3 +33,6 @@ React introduced **hooks** (e.g., `useState`, `useEffect`) to allow functional c
 
 ## 🛠️ Declarative vs Imperative Programming in React
 [Click here](Declarative_vs_Imperative/README.md)
+
+## 🛠️ `Package.json` file
+[Click here](Package_Json_file/README.md)
