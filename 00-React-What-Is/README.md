@@ -36,3 +36,6 @@ React introduced **hooks** (e.g., `useState`, `useEffect`) to allow functional c
 
 ## 🛠️ `Package.json` file
 [Click here](Package_Json_file/README.md)
+
+## 🛠️ Components Explained
+[Click here](Components/README.md)
