@@ -1,0 +1,61 @@
+.food_card{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px 2px lightgray;
+    display: flex;
+    padding: 15px;
+    column-gap: 10px;
+  }
+  
+  .food_pic img{
+    width: 200px;
+    aspect-ratio: 2/2;
+    border-radius: 20px;
+  }
+  
+  .food_info{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 5px;
+    padding: 10px 0;
+  }
+  
+  .food_info__name{
+    font-size: 3rem;
+    font-weight: 900;
+  }
+  
+  .food_info__desc{
+    font-size: 1.3rem;
+    max-width: 400px;
+    font-weight: 300;
+    color: gray;
+  }
+  
+  .rate{
+    position: absolute;
+    right: -40px;
+    top: 20px;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: rgb(233, 233, 29);
+  }
+  .rate i{
+    color: yellow;
+    font-size: 1.5rem;
+  }
+  
+  .badges{
+    margin-top: 50px;
+    display: flex;
+    gap: 10px;
+    font-weight: 700;
+  }
+  
+  .badge{
+    padding: 5px 15px;
+    border-radius: 20px;
+    background-color: rgb(232, 232, 232);
+    font-size: 1.3rem;
+  }
